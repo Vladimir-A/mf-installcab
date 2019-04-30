@@ -1,5 +1,5 @@
 # mf-installcab
-Installcab based Media Foundation workaround
+Installcab based Media Foundation workaround for Wine
 
 This makes Resident Evil 2 and some other games work.
 
