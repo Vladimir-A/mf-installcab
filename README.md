@@ -13,4 +13,4 @@ Resident Evil 2 should then work. I'm sure much more games too.
 
 installcab.py is exactly the same as upstream except uncommented lines 129-137 (https://github.com/tonix64/python-installcab/blob/master/installcab.py
 
-The difference between this is a better shell script, and no manual intervention needed. Just simply run the script, copy the DLL file, and play, it's an extremely simple and short shell script, it's easy to understand.
+The difference between this is a better shell script, and almost no manual intervention needed. It's an extremely simple and short shell script, it's easy to understand.
