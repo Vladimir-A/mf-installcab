@@ -1,8 +1,6 @@
 # mf-installcab
 Installcab based Media Foundation workaround for Wine
 
-This makes Resident Evil 2 and some other games work.
-
 ### Known working games:
 
 - Resident Evil 2
@@ -14,7 +12,7 @@ Just set WINEPREFIX and run install-mf-64.sh like this
 
 Then copy the included mfplat.dll to the same directory as the `.exe` (e.g. re2.exe)
 
-Resident Evil 2 should then work. I'm sure much more games too.
+Resident Evil 2 etc. should then work.
 
 installcab.py is exactly the same as upstream except uncommented lines 129-137 (https://github.com/tonix64/python-installcab/blob/master/installcab.py
 
