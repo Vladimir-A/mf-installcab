@@ -3,6 +3,11 @@ Installcab based Media Foundation workaround for Wine
 
 This makes Resident Evil 2 and some other games work.
 
+### Known working games:
+
+- Resident Evil 2
+- Darksiders Warmastered Edition
+
 Just set WINEPREFIX and run install-mf-64.sh like this
 
 `WINEPREFIX="/home/gaben/.local/share/Steam/steamapps/compatdata/883710/pfx" ./install-mf-64.sh`
