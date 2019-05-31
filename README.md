@@ -4,6 +4,7 @@ Installcab based Media Foundation workaround for Wine
 ### Known working games:
 
 - Resident Evil 2
+- Resident Evil 7
 - Darksiders Warmastered Edition
 
 Just set WINEPREFIX and run install-mf-64.sh like this
